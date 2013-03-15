@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RType()
+comment0.text=\r\n\ Constructor\ de\ la\ clase\ RType\r\n
+comment1.params=
+comment1.target=void\ pantallaInicial()
+comment1.text=\r\n\ M\u00E9todo\ que\ implementa\ la\ pantalla\ inicial\r\n
+comment2.params=dificultad
+comment2.target=void\ jugar(int)
+comment2.text=\r\n\ M\u00E9todo\ que\ implementa\ el\ juego\ con\ el\ nivel\ seleccionado\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ M\u00E9todo\ principal\r\n
+numComments=4

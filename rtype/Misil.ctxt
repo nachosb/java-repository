@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=inicioX\ inicioY
+comment0.target=Misil(int,\ int)
+comment0.text=\r\n\ Constructor\ de\ la\ clase\ misil\r\n
+comment1.params=velocidad
+comment1.target=void\ mover(int)
+comment1.text=\r\n\ M\u00E9todo\ para\ mover\ el\ misil\r\n\ El\ misil\ s\u00F3lo\ avanza\ en\ horizontal\r\n\ \r\n\ @param\ \ velocidad\ velocidad\ de\ movimiento\ del\ misil\r\n
+comment2.params=
+comment2.target=int\ getX()
+comment2.text=\r\n\ M\u00E9todo\ que\ devuelve\ la\ posicion\ horizontal\ del\ misil\r\n\ \r\n\ @return\ \ x\ posici\u00F3n\ horizontal\ del\ misil\r\n
+comment3.params=
+comment3.target=int\ getY()
+comment3.text=\r\n\ M\u00E9todo\ que\ devuelve\ la\ posicion\ verticual\ del\ misil\r\n\r\n\ @return\ y\ posici\u00F3n\ vertical\ del\ misil\r\n
+comment4.params=
+comment4.target=java.awt.Rectangle\ getRectangulo()
+comment4.text=\r\n\ M\u00E9todo\ que\ devuelve\ el\ rect\u00E1ngulo\ que\ ocupa\ el\ misil\r\n\r\n\ @return\ rect\u00E1ngulo\ que\ ocupa\ el\ misil\r\n
+comment5.params=
+comment5.target=java.awt.Image\ getImagen()
+comment5.text=\r\n\ M\u00E9todo\ para\ obtener\ la\ imagen\ asociada\ a\ la\ nave\r\n
+comment6.params=
+comment6.target=boolean\ getVisible()
+comment6.text=\r\n\ M\u00E9todo\ para\ obtener\ la\ imagen\ asociada\ a\ la\ nave\r\n
+comment7.params=tipoVisible
+comment7.target=void\ setVisible(boolean)
+comment7.text=\r\n\ M\u00E9todo\ para\ obtener\ la\ imagen\ asociada\ a\ la\ nave\r\n
+numComments=8

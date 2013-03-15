@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=ancho\ alto\ dificultad\ padreEntrada
+comment0.target=Tablero(int,\ int,\ int,\ RType)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Tablero\r\n
+comment1.params=
+comment1.target=int\ getAlto()
+comment1.text=\r\n\ Obtiene\ el\ ancho\r\n
+comment2.params=cantidad
+comment2.target=void\ anadirNaveEnemiga(int)
+comment3.params=
+comment3.target=int\ getAncho()
+comment3.text=\r\n\ Obtiene\ el\ ancho\r\n
+comment4.params=g
+comment4.target=void\ paintComponent(java.awt.Graphics)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=6

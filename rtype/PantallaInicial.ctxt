@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=padreEntrada
+comment0.target=PantallaInicial(RType)
+comment0.text=\r\n\ Constructor\ para\ la\ pantalla\ Inicial\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5

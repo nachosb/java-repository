@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=ancho\ alto\ radio
+comment0.target=Estrella(int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ de\ objectos\ de\ la\ clase\ Estrellas\r\n
+comment1.params=
+comment1.target=int\ getRadio()
+comment1.text=\r\n\ Metodo\ que\ devuelve\ el\ radio\r\n\ \r\n\ @\ return\ radio\ de\ la\ estrella\r\n
+comment2.params=radio
+comment2.target=void\ setRadio(int)
+comment2.text=\r\n\ Metodo\ que\ permite\ modificar\ el\ radio\r\n\ \r\n\ @\ return\ radio\ de\ la\ estrella\r\n
+numComments=3

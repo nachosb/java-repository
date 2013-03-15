@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=ancho\ alto\ tipo
+comment0.target=NaveEnemiga(int,\ int,\ char)
+comment0.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ NaveEnemiga\r\n
+comment1.params=
+comment1.target=void\ obtenerImagen()
+comment1.text=\r\n\ M\u00E9todo\ para\ obtener\ la\ imagen\ de\ la\ nave\r\n
+comment2.params=
+comment2.target=java.awt.Image\ getImagen()
+comment2.text=\r\n\ M\u00E9todo\ para\ obtener\ la\ imagen\ asociada\ a\ la\ nave\r\n
+numComments=3

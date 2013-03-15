@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=ventanaPadre\ nivel\ ancho\ alto
+comment0.target=VentanaJuego(RType,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ de\ la\ clase\ VentanaJuego\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=
+comment2.target=void\ generarEstellas()
+comment2.text=\r\n\ M\u00E9todo\ que\ generar\u00E1\ y\ cargar\u00E1\ estrellas\ en\ un\ array\ de\ estrellas\r\n\ \r\n
+comment3.params=
+comment3.target=void\ generarNaves()
+comment3.text=\r\n\ M\u00E9todo\ que\ generar\u00E1\ y\ cargar\u00E1\ las\ naves\ enemigas\ segun\ la\ dificultad\ elegida\r\n\ \r\n
+comment4.params=g
+comment4.target=void\ paint(java.awt.Graphics)
+comment4.text=\r\n\ M\u00E9todo\ para\ pintar\ en\ la\ pantalla\ los\ objetos\r\n
+comment5.params=
+comment5.target=void\ moverHorizontal()
+comment5.text=\r\n\ M\u00E9todo\ para\ mover\ en\ horizontal\ (estrellas,\ misiles\ y\ naves\ enemigas)\r\n
+comment6.params=velocidad
+comment6.target=void\ moverEstrellas(int)
+comment6.text=\r\n\ M\u00E9todo\ para\ mover\ las\ estrellas\r\n
+comment7.params=velocidad
+comment7.target=void\ moverNaves(int)
+comment7.text=\r\n\ M\u00E9todo\ para\ mover\ las\ estrellas\r\n
+numComments=8

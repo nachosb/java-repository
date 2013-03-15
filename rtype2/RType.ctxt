@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RType()
+comment0.text=\r\n\ Constructor\ de\ la\ clase\ RType\r\n
+comment1.params=
+comment1.target=void\ pantallaInicial()
+comment1.text=\r\n\ M\u00E9todo\ que\ muestra\ en\ la\ pantalla\ el\ panel\ de\ la\ ventana\ de\ bienvenida\ o\ inicial\r\n\ \r\n
+comment2.params=nivel\ ancho\ alto
+comment2.target=void\ pantallaJuego(int,\ int,\ int)
+comment2.text=\r\n\ M\u00E9todo\ que\ muestra\ en\ la\ pantalla\ el\ panel\ de\ la\ ventana\ de\ bienvenida\ o\ inicial\r\n\ \r\n\ @param\ Dificultad\ del\ juego\ seleccionada\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ M\u00E9todo\ main\ del\ juego\ R-Type\r\n\ \r\n\ @param\ \ args\ argumentos\ iniciales\ del\ programa\r\n
+comment4.params=ancho
+comment4.target=void\ setAncho(int)
+comment4.text=\r\n\ M\u00E9todo\ para\ modificar\ el\ ancho\r\n\ \r\n\ @param\ ancho\ de\ la\ ventana\r\n
+comment5.params=alto
+comment5.target=void\ setAlto(int)
+comment5.text=\r\n\ M\u00E9todo\ para\ modificar\ el\ alto\r\n\ \r\n\ @param\ alto\ de\ la\ ventana\r\n
+numComments=6
